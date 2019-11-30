@@ -1,4 +1,4 @@
-# Baidu_API
+﻿# Baidu_API
 
 #### Description
 主要是发布一些基于百度云服务的一些应用与函数，一般需要注册百度云账户。
@@ -29,8 +29,6 @@ Software architecture description
 #### Gitee Feature
 
 1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+2. Mail to support@itestgroup.com for detail.
+
+3.  The code is from iTestgroup  [http://www.itestgroup.com/](http://www.itestgroup.com/)
